@@ -1,4 +1,5 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/godopetza/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/godopetza/repos?time_range=one_year&group=other&theme=dark)]
 
 <!--
 **godopetza/godopetza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
