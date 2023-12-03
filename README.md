@@ -1,6 +1,6 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/godopetza/langs)](https://githubtrends.io)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/godopetza/repos?time_range=one_year&group=other&theme=dark)]https://apps.flutterai.dev)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/godopetza/repos?time_range=one_year&group=other&theme=dark)](https://apps.flutterai.dev)
 
 - 💬 Ask me about Flutter & Golang
 
